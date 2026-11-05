@@ -19,5 +19,5 @@ Do not invent facts, quotations, or citations.
 Check the response against these requirements before answering.
 Include quizzes after every topic to practice
 
-**Portfolio building**
+**Portfolio building:**
 Based on all chats in this project, describe who I am, my skills, projects, learning journey, trends, career goal. Now create a modern personal portfolio website using HTML code. 
