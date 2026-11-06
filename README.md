@@ -1,8 +1,6 @@
 # This repository contain all the prompts used in the course
-------------------------------------------------------------
 
 ## Episode - 1:
----------------
 **Prompt-1:** 
 I am a first year Engineering student from CS branch.
 I know basic C.
