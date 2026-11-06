@@ -36,4 +36,23 @@ If I don't understand something, explain it differently instead of repeating you
 **Prompt-4:**
 Build a fully playable Chrome Dino-inspired game in a single HTML file. All HTML, CSS, and JavaScript must be embedded in the same file with no external dependencies. Use the HTML5 Canvas for rendering. The dinosaur should continuously run while the ground scrolls. Randomly spawn cactus obstacles with varying spacing. Implement realistic jump physics with gravity, collision detection, increasing game speed over time, score tracking, high score stored using localStorage, start screen, game over screen, restart functionality, keyboard controls (Space/Up Arrow), touch support for mobile, and simple sound effects generated with the Web Audio API. Keep the code modular, well commented, and easy to modify. The game should work immediately by opening the HTML file in any modern browser.
 
+## Episode - 2:
+**Web search prompt:**
+I have to prepare an undergraduate seminar on "Artificial Intelligence in
+Healthcare."
+Before creating the presentation, help me research the topic.
+Requirements:
+@Web search - Search the web for the latest information.
+- Use reliable and trustworthy sources.
+- Include recent statistics with citations.
+- Mention publication dates wherever possible.
+- Clearly separate facts from opinions.
+- If any information cannot be verified, mention that explicitly.
+Do not create slides yet.
+First help me build accurate research notes.
+
+**Deep research prompt:**
+I have to prepare an undergraduate seminar on "Artificial Intelligence in Healthcare." Before creating the presentation, help me research the topic. Requirements:  - Search the web for the latest information. - Use reliable and trustworthy sources. - Include recent statistics with citations. - Mention publication dates wherever possible. - Clearly separate facts from opinions. - If any information cannot be verified, mention that explicitly. Do not create slides yet. First help me build accurate research notes.[@Deep research](app://connector_openai_deep_research)
+
+
 
